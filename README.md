@@ -113,4 +113,4 @@ AIGC评分：62.5%（高AI风险，已触发自动重写）
 
 ## License
 
-MIT
+[MIT](LICENSE)
